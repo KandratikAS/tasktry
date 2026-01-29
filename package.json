@@ -1,10 +1,11 @@
 {
   "name": "lcm-service",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "type": "commonjs",
+  "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.19.2"
